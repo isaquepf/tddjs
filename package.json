@@ -1,0 +1,23 @@
+{
+  "name": "tddjs",
+  "version": "1.0.0",
+  "description": "Curso de TDD udemy.",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaquepf/tddjs.git"
+  },
+  "keywords": [
+    "tdd",
+    "isaqueprestes"
+  ],
+  "author": "isaqueprestes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isaquepf/tddjs/issues"
+  },
+  "homepage": "https://github.com/isaquepf/tddjs#readme"
+}
